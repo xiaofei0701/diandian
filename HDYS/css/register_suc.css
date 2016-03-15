@@ -1,0 +1,35 @@
+.success{width: 1200px;min-width: 1000px;margin: 0 auto;clear: both;}
+.reg_success{padding: 45px 0 90px 0;background: #fff;width: 100%;position: relative;}
+.suc_text{margin-left: 160px;}
+.suc_logo{float: left;}
+h2{line-height: 24px;font-size: 16px;font-weight: 700;width: 520px;word-wrap: break-word;word-break: break-all;}
+.suc_tip{font-family: "Microsoft YaHei";float: left;margin-top: 20px;}
+.buy_now{position: relative;display: inline-block;width: 168px;height: 36px;line-height: 36px;background: #c80a28;color: #FFF;text-align: center;font-weight: 700;font-size: 18px;overflow: hidden;cursor: pointer;vertical-align: middle;text-decoration: none;margin-top: 30px;margin-left: 45px;}
+.chakan{margin-top: 30px;margin-left: 394px;font: 14px 'Microsoft YaHei';color: #333;}
+.chakan a{color: #c80a28;}
+.task{border: 1px solid #DDD;background: #FFF;}
+.task .title {border-bottom: 1px solid #DDD;line-height: 37px;padding-left: 12px;}
+.task .title strong {margin-right: 3px;font-family: "Microsoft YaHei";font-size: 16px;font-weight: bold;}
+.suc_list {padding: 15px 0;color: #666;overflow: hidden;}
+.suc_list ul {margin-left: -1px;list-style: none;}
+.item {float: left;width: 353px;height: 100px;padding: 0 20px;border-left: 1px dashed #ddd;}
+.suc_list .item dl {overflow: hidden;zoom: 1;}
+.suc_list .item dt {float: left;width: 50px;}
+.suc_list .item dd {float: left;width: 190px;display: block;-webkit-margin-start: 40px;}
+.suc_list .item i {width: 75px;height: 80px;margin: 0;background-image: url(../img/reg_icon.png);background-repeat: no-repeat;vertical-align: top;}
+.suc_list .item .info_icon {background-position: 0 0;float: left;}
+.t a {text-decoration: none;cursor: pointer;font: 16px 'Microsoft YaHei';color: #565656;-webkit-tap-highlight-color: #c8c8c8;}
+.content {margin-top: 15px;font: 14px 'Microsoft YaHei';}
+
+
+
+
+
+
+
+
+
+
+
+
+

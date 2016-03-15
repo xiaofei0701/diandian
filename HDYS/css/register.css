@@ -1,0 +1,54 @@
+/*
+    作者：742938202@qq.com
+    时间：2016-02-17
+    描述：韩都衣舍
+*/
+.register{width: 1100px;margin: 0 auto;float: none;}
+.registerR{width: 360px;margin: 40px 0 0 30px;float: left;}
+.registerR_list{width: 360px;line-height: 40px;font-size: 13px;}
+.registerR_list .register_loginbtn{background: url(../img/register/NEWS_login.png) no-repeat -347px -211px;width: 103px;height: 29px;border: none;color: #fff;font-size: 16px;line-height: 29px;letter-spacing: 1px;margin: 8px 0 0 10px;cursor: pointer;}
+.registerR_pic{margin-left: -7px;width: 367px;height: 250px;}
+.registerR_crm{background: url(../img/register/footer022.png) no-repeat;width: 430px;height: 97px;float: left;margin-top: 8px;margin-left: -7px;position: relative;}
+.registerL{height: 500px;border-left: #DDD 1px dashed;margin: 30px 0 0 50px;padding-left: 50px;float: right;}
+.register_metal{width: 609px;border-bottom: #ddd 1px dashed;height: 120px;line-height: 50px;}
+.re_num{background: url(../img/register/NEWS_login.png) no-repeat 0 -326px;width: 22px;height: 22px;color: #fff;float: left;text-align: center;line-height: 22px;margin: 13px 0 0 0;}
+.re_numName{margin-left: 8px;line-height: 50px;float: left;display: inline;}
+.re_fs{width: 316px;margin: 8px 0 0 0;float: left;display: inline;}
+.re_fs a{background: url(../img/register/NEWS_login.png) no-repeat 0 -102px;width: 135px;height: 38px;border: none;display: block;line-height: 32px;float: left;text-align: center;font-size: 14px;margin-left: 10px;}
+.re_fs .re_phone{background-position: 0 -102px;color: #fff;}
+.re_fs .re_email{background-position: 0 -151px;color: #393939;}
+.re_tip{float: left;border: 1px solid #ddd;border-radius: 10px;margin-top: 10px;background-color: #fffac3;}
+.re_jiao{margin-top: -8px;margin-left: 60px;width: 0px;height: 0px;color: white;text-align: center;border-left: 8px solid transparent;border-right: 8px solid transparent;border-bottom: 8px solid #fffac3;}
+.re_phone1{display:-none;}
+.re_email1{display:none ;}
+
+.register_maile{position: relative;margin: 20px 0 0 0;}
+.register_list{margin: 0;padding: 0;width: 580px;}
+.register_list li{width: 580px;line-height: 33px;float: left;}
+.register_list_name {width: 115px;text-align: right;float: left;color: #393939;}
+.register_list_txt {background: url(../img/register/shopping_login.png) no-repeat -0 -182px;width: 210px;height: 33px;border: none;float: left;text-indent: 5px;line-height: 33px;}
+.register_telphonetime {background: url(../images/NEW_images/NEWS_login.png) no-repeat -256px -107px;width: 116px;height: 26px;line-height: 26px;text-align: center;margin: 3px 0 0 5px;color: #7b7b7b;border: none;}
+.register_list_neirong {float: left;color: #7b7b7b;text-indent: 115px;width: 600px;}
+.register_telphonetime {background: url(../img/register/NEWS_login.png) no-repeat -256px -107px;width: 116px;height: 26px;line-height: 26px;text-align: center;margin: 3px 0 0 5px;color: #7b7b7b;border: none;}
+.register_list_xieyi {float: left;color: #393939;text-indent: 115px;font-size: 16px;margin-top: 10px;}
+.register_list_regree {display:block;background: url(../img/register/NEWS_login.png) no-repeat 0 -51px;width: 171px;height: 43px;border: none;font-size: 18px;color: #fff;margin: 10px 0 0 120px;cursor: pointer;}
+.register_list_tishi {text-align: right;float: left;color: #bf0000;display: none;}
+#tip_m_ag{margin-left: 170px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

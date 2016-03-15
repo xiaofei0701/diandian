@@ -1,0 +1,43 @@
+
+.newgoods{width: 100%;overflow: hidden;}
+.newgoods img{margin: 0;padding: 0;display: block;float: left;border: none;}
+del {text-decoration: line-through;}
+.newgoods .newgoods_banner1{background:url(../img/newgoods/top_01.jpg) no-repeat center 0px;width:100%;height:151px;float:left;}
+.newgoods .newgoods_banner2{background:url(../img/newgoods/top_02.jpg) no-repeat center 0px;width:100%;height:127px;float:left;}
+.newgoods .newgoods_banner3{background:url(../img/newgoods/top_03.jpg) no-repeat center 0px;width:100%;height:136px;float:left;}
+.newgoods .newgoods_banner4{background:url(../img/newgoods/top_04.jpg) no-repeat center 0px;width:100%;height:120px;float:left;}
+.newgoods .newgoods_banner5{background:url(../img/newgoods/top_05.jpg) no-repeat center 0px;width:100%;height:116px;float:left;}
+.quanbu {margin: 0 auto;width: 980px;background: #ffe6ed;overflow: hidden;padding: 0px;}
+.quanbu img{display: block;width: 980px;height: 142px;}
+
+/*----------------------goodsbox-------------------------*/
+.goodsbox{width: 980px;background-color: #fff;height: auto;margin: 0 auto;}
+.goodsbox ul{overflow: hidden;padding: 15px 2px;padding-bottom: 0;}
+/*----------------------小图的公共样式-------------------------*/
+.goods_Li{width: 228px;height: auto;list-style: none;float: left;margin: 8px;margin-bottom: 20px;}
+.divJb {position: relative;width: 228px;height: 309px;}
+.divJb img {position: absolute;width: 228px;height: 309px;}
+.rm_btm {font-family: "微软雅黑";font-size: 15px;color: #0eb3ad;}
+.rmLeft01 {float: left;margin-left: 10px;}
+.rm_xpj {display: block;margin-top: 24px;font-weight: bold;}
+.rm_fh {color: #282828;font-size: 12px;}
+.rm_100 {color: #282828;font-size: 18px;font-family: Arial;font-weight: bold;}
+.rm_jdel {color: #999;font-size: 12px;}
+.rmbtn {width: 56px;background-color: #0eb3ad;float: right;text-align: center;color: #fff;font-size: 14px;overflow: hidden;line-height: 18px;padding: 10px 0;}
+
+/*------------------------------goods_footer-------------------------------*/
+.goods_footer{margin: 0px auto;width: 990px;height: 860px;clear: both;}
+.goods_footer_bg{position: absolute;padding-bottom: 50px;margin: 0px;padding-left: 0px;width: 100%;padding-right: 0px;background: #ccc;height: 820px;padding-top: 0px;left: 0px;}
+.goods_footer_pic{margin: 10px auto;width: 990px;height: 120px;}
+.goods_footer_bottom{width: 990px;height: 525px;margin: 0 auto;position: relative;}
+.hd_beeinset {position: absolute;width: 990px;height: 185px;}
+.hd_beebox {width: 119px;height: 185px;float: left;margin-right: 10px;position: relative;}
+.hd_beebox a {width: 100%;height: 100%;display: block;text-decoration: none;}
+.hd_beebox a .hd_click {width: 70px;height: 18px;line-height: 18px;position: absolute;z-index: 20;left: 50%;margin-left: -35px;font-size: 12px;font-family: Arial, "Microsoft YaHei";color: #333;border: 1px solid #999;top: 137px;text-align: center;-webkit-transition: all 0.5s;-moz-transition: all 0.5s;-ms-transition: all 0.5s;-o-transition: all 0.5s;transition: all 0.5s;}
+.hd_beebox:hover a .hd_click {color: #fff;border: 1px solid #ff0032;background: #ff0032;}
+
+
+
+
+
+
